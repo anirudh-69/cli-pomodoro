@@ -1,0 +1,17 @@
+{
+  "name": "cli-pomodoro",
+  "version": "1.0.0",
+  "description": "npm i @clack/prompts   // for cli prompting npm install play-sound   // for sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "play-sound": "^1.1.6"
+  },
+  "type": "module"
+}
